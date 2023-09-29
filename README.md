@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil da Renatinha 😁
 
  <div>
-   <a href="https://github.com/renatinha125">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatinha125&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatinha125&layout=compact&langs_count=6&theme=dracula"/>
+   <a href="https://github.com/renatadreis">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatadreis&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatadreis&layout=compact&langs_count=6&theme=dracula"/>
 
 </div>
 <div style="display: inline_block"><br>
@@ -17,9 +17,8 @@
   ### Para me apoiar na programação me segue nas redes abaixo!
  
 <div> 
-  <a href="https://instagram.com/xurumela_chan" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/renatadrgarcia" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/renatinha125/renatinha125/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/renatadreis/renatadreis/blob/output/github-contribution-grid-snake.svg)
 
 </div>
